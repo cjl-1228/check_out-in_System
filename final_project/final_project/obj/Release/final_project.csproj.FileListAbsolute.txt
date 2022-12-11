@@ -1,0 +1,9 @@
+C:\Users\cjl\Desktop\final_project\final_project\obj\Release\final_project.csproj.AssemblyReference.cache
+C:\Users\cjl\Desktop\final_project\final_project\obj\Release\final_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\cjl\Desktop\final_project\final_project\obj\Release\final_project.change_passwd.resources
+C:\Users\cjl\Desktop\final_project\final_project\obj\Release\final_project.home.resources
+C:\Users\cjl\Desktop\final_project\final_project\obj\Release\final_project.Login.resources
+C:\Users\cjl\Desktop\final_project\final_project\obj\Release\final_project.Properties.Resources.resources
+C:\Users\cjl\Desktop\final_project\final_project\obj\Release\final_project.register.resources
+C:\Users\cjl\Desktop\final_project\final_project\obj\Release\final_project.csproj.GenerateResource.cache
+C:\Users\cjl\Desktop\final_project\final_project\obj\Release\final_project.csproj.CoreCompileInputs.cache
