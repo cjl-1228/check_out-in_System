@@ -6,5 +6,9 @@ The system uses Windows Forms and is connected to MS SQL.
 
 functions
 <ul>
-  <li></li>
+  <li>Login / Sign up</li>
+  <li>Index</li>
+  <li>Check out</li>
+  <li>Check in</li>
+  <li>Profile</li>
 </ul>
