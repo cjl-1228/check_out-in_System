@@ -34,9 +34,16 @@ functions
               <li>Email</li>
               <li>Photo</li>
           </ul>
-          </li>
+         
+
+
+
+ </li>
         <li>Logout</li>
         <li>Delete account</li>
       </ul>
   </li>
 </ul>
+
+
+https://user-images.githubusercontent.com/84067543/232836388-c619d0c2-c14c-464f-a6bf-b7495b1196c9.mp4
