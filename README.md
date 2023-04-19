@@ -1,6 +1,8 @@
-# This is a check in/out system designed for use in libraries. 
+<h2>Check in/out system</h2> 
 
-The system uses Windows Forms and is connected to MS SQL.
+<h3>Script</3>
+<h4>This is a check in/out system designed for use in libraries. <br>The system uses Windows Forms and is connected to MS SQL. </h4>
+
 
 <br>
 
